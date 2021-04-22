@@ -1,0 +1,11 @@
+name: Dodgeball
+author: Cody
+main: com.scoutzknifez.dodgeball.Main
+version: 0.1
+description: A basic test for dodgeball system
+api-version: 1.13
+
+commands:
+  dodgeball:
+    aliases: [dodge, db]
+    description: Runs the dodgeball command

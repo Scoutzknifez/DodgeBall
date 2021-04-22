@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dodgeball">
+    <output-path>$USER_HOME$/Desktop/MCDev/plugins</output-path>
+    <root id="archive" name="Dodgeball.jar">
+      <element id="module-output" name="DodgeBall" />
+    </root>
+  </artifact>
+</component>
